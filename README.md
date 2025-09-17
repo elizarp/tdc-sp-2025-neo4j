@@ -1,10 +1,9 @@
 ## TDC - SP - Workshop - Combatendo corrupcao com grafos
 
 
-Baixar arquivo .backup
+Baixar arquivo de [backup](tdc-sp-workshop-neo4j.backup)
 
-Abrir console Neo4j (AuraDB free)
-[Link Console](https://console.neo4j.io/)
+Abrir [console Neo4j (AuraDB free)](https://console.neo4j.io/)
 
 Passos
 ```
